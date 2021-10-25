@@ -145,3 +145,6 @@ em {
 #weather-description {
   text-transform: capitalize;
 }
+.ref {
+  text-align: center;
+}
